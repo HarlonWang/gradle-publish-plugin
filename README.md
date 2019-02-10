@@ -30,7 +30,7 @@ for Gradle version < 2.1 or where dynamic configuration is required:
             }
           }
           dependencies {
-            classpath "gradle.plugin.com.whl:gradle-publish-plugin:0.1.16-SNAPSHOT"
+            classpath "com.whl:gradle-publish-plugin:0.1.16-SNAPSHOT"
           }
         }
 
