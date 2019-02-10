@@ -36,6 +36,8 @@ for Gradle version < 2.1 or where dynamic configuration is required:
 
         apply plugin: "com.whl.gradle-publish-plugin"
 
+Also see it in [Gradle plugins](https://plugins.gradle.org/plugin/com.whl.gradle-publish-plugin)
+
 > "com.whl.gradle-publish-publish" should be after apply "java-library" or "com.android.library"
 
 then, configuration in your build.gradle，such as:
