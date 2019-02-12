@@ -83,7 +83,7 @@ complete example:
         }
 
 
-last, execute `./gradlew publish` task to publish your library to specified maven repository
+last, execute `./gradlew publish` or `./gradlew :library:publish` task to publish your library to specified maven repository
 
 
 
