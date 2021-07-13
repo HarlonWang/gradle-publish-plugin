@@ -1,6 +1,6 @@
 ### Gradle Publish Plugin
 
-A flex gradle plugin for publish your library to maven repository become easy.
+A flex gradle plugin make publish your library to maven repository become easy.
 
 ![gradle-publish-plugin.png](assets/gradle-publish-plugin.png)
 
