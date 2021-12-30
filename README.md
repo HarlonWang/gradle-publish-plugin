@@ -1,3 +1,8 @@
+## PLEASE NOTE, THIS PROJECT IS NO LONGER BEING MAINTAINED
+
+## Recommended use https://github.com/vanniktech/gradle-maven-publish-plugin
+
+
 ### Gradle Publish Plugin
 
 A flex gradle plugin make publish your library to maven repository become easy.
